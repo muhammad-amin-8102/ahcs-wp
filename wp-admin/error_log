@@ -1,0 +1,13 @@
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Batch Process Started!
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Queuing 3.5.0 - astra_addon_page_headers_support_to_builder_layout
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Queuing 3.5.1 - astra_addon_headings_font_support
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Queuing 3.5.1 - astra_addon_cart_color_not_working_in_old_header
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_outline_cart_bg_color_support
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_remove_header_sections_deps_new_builder
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Queuing 3.5.7 - astra_addon_swap_section_not_working_in_old_header
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Queuing 3.5.8 - astra_sticky_header_site_title_tagline_css
+[24-Apr-2022 11:48:52 UTC] Astra Addon: Queuing 3.5.9 - astra_addon_remove_responsive_account_menu_colors_support
+[24-Apr-2022 11:49:15 UTC] Astra Addon: Batch Process Started!
+[24-Apr-2022 11:49:15 UTC] Astra Addon: Running migration without batch processing.
+[24-Apr-2022 11:49:15 UTC] Astra Addon: DB version updated!
+[26-Apr-2022 09:43:08 UTC] PHP Warning:  unlink(crown-logo-new.jpg): No such file or directory in /home/ahcservi/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/icons/custom-icons.php on line 180
